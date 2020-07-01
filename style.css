@@ -57,7 +57,7 @@
     }
     #service-align{
         text-align: center;
-        font-size: 50px;]
+        font-size: 50px;
         
     }
     .first-div  {
@@ -123,12 +123,6 @@
         border-radius: 5px;
         color: white;
         font-weight: 600;
-
-    }
-    .lower-part {
-        background-image: url("images/footer-bg.png");
-        background-repeat: no repeat;
-        background-size: 100% 100%;
     }
 /*======This is Footer====*/
     footer{
